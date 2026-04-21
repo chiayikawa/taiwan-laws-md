@@ -4,30 +4,15 @@
 
 ## 使用方式
 
-### 直接下載（方案 A）
-
-Clone 整個 repo，之後 `git pull` 即可取得最新版本：
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/taiwan-laws-md.git
+git clone https://github.com/chiayikawa/taiwan-laws-md.git
 ```
 
-所有法規在 [`laws/`](laws/) 資料夾，共 1,343 部，一部一個 `.md` 檔。
-
-### 自己跑（方案 B）
-
-僅需 Python 與一個套件：
-
-```bash
-pip install httpx
-python scripts/fetch_and_convert.py
-```
-
-執行後 `laws/` 底下即產生所有 Markdown 檔案。
+下載後直接在 [`laws/`](laws/) 資料夾查找所需法規，共 1,343 部，一部一個 `.md` 檔。之後執行 `git pull` 即可取得最新版本。
 
 ## 更新頻率
 
-每週一 10:00（台北時間）由 GitHub Actions 自動從全國法規資料庫 Open API 抓取最新資料並更新。
+每週一 10:00（台北時間）自動從全國法規資料庫 Open API 抓取最新資料並更新。
 
 ## 資料來源
 
