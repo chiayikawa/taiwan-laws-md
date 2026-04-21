@@ -1,4 +1,4 @@
-# taiwan-laws-md　台灣全國法規 Markdown 版
+# 台灣全國法規資料庫 Markdown 版 taiwan-laws-md　
 
 隨著 AI 工具普及，Markdown 格式已成為語言模型最易讀取的文件格式。本專案將[全國法規資料庫](https://law.moj.gov.tw/)的所有中文法規轉換為 Markdown 檔案，供法律從業者、研究者及 AI 應用直接取用。所有內容以全國法規資料庫為唯一權威來源，每週自動同步更新。
 
