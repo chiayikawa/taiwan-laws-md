@@ -9,6 +9,7 @@ All notable project-level changes are documented here. Generated law text change
 - Added contribution and security policies.
 - Added dataset validation tooling.
 - Updated the weekly workflow to validate generated data before committing.
+- Updated GitHub Actions to Node 24-compatible action versions.
 
 ## 2026-06-01
 
