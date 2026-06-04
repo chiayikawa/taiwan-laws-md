@@ -1,0 +1,44 @@
+name: Data issue
+description: Report stale, missing, malformed, or hard-to-use law data.
+title: "[Data]: "
+labels: ["data"]
+body:
+  - type: input
+    id: law_name
+    attributes:
+      label: Law name
+      placeholder: 中華民國刑法
+    validations:
+      required: true
+  - type: input
+    id: law_file
+    attributes:
+      label: Law file
+      placeholder: laws/中華民國刑法.md
+  - type: input
+    id: official_url
+    attributes:
+      label: Official source URL
+      placeholder: https://law.moj.gov.tw/...
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue type
+      options:
+        - Missing law
+        - Stale law
+        - Formatting problem
+        - Metadata problem
+        - Search or indexing problem
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the mismatch between this repository and the official source.
+    validations:
+      required: true

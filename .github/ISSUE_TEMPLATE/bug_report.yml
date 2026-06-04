@@ -1,0 +1,34 @@
+name: Bug report
+description: Report a converter, workflow, or generated Markdown issue.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is wrong?
+    validations:
+      required: true
+  - type: input
+    id: law_file
+    attributes:
+      label: Law file
+      description: Path to the affected file, if any.
+      placeholder: laws/中華民國刑法.md
+  - type: input
+    id: official_url
+    attributes:
+      label: Official source URL
+      description: Link to the National Laws and Regulations Database page, if relevant.
+      placeholder: https://law.moj.gov.tw/...
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should happen instead?
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Add screenshots, logs, or examples if useful.

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset or converter, please cite the repository and the National Laws and Regulations Database."
+title: "taiwan-laws-md"
+authors:
+  - family-names: "Kawa"
+    given-names: "Chia-Yi"
+repository-code: "https://github.com/chiayikawa/taiwan-laws-md"
+url: "https://github.com/chiayikawa/taiwan-laws-md"
+license: "MIT"
+date-released: "2026-06-01"
+abstract: "Markdown corpus and converter for Taiwan's National Laws and Regulations Database."
