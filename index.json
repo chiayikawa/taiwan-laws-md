@@ -473,7 +473,7 @@
     "name": "中華民國刑法",
     "category": "行政＞法務部＞檢察目",
     "level": "法律",
-    "modified_date": "20260313",
+    "modified_date": "20260722",
     "effective_note": "",
     "abandon_note": "",
     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000001",
@@ -483,7 +483,7 @@
     "name": "中華民國刑法施行法",
     "category": "行政＞法務部＞檢察目",
     "level": "法律",
-    "modified_date": "20260313",
+    "modified_date": "20260722",
     "effective_note": "",
     "abandon_note": "",
     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000002",
@@ -10418,6 +10418,16 @@
     "abandon_note": "",
     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030066",
     "file": "laws/藥師法.md"
+  },
+  {
+    "name": "虛擬資產服務法",
+    "category": "行政＞金融監督管理委員會＞證券暨期貨管理目  ",
+    "level": "法律",
+    "modified_date": "20260722",
+    "effective_note": "一百十五年七月二十二日制定公布全文 56 條，依第 56 條規定：施行日\r\n期，由行政院定之。",
+    "abandon_note": "",
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0400163",
+    "file": "laws/虛擬資產服務法.md"
   },
   {
     "name": "蠶種製造條例",
