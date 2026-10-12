@@ -3520,6 +3520,16 @@
     "file": "laws/國家中山科學研究院設置條例.md"
   },
   {
+    "name": "國家中醫研究院設置條例",
+    "category": "行政＞衛生福利部＞組織目",
+    "level": "法律",
+    "modified_date": "20260930",
+    "effective_note": "一百十五年九月三十日制定公布全文 46 條，依第 46 條規定：施行日期\r\n，由行政院定之。",
+    "abandon_note": "",
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0000101",
+    "file": "laws/國家中醫研究院設置條例.md"
+  },
+  {
     "name": "國家人權博物館組織法",
     "category": "行政＞文化部＞組織目",
     "level": "法律",
@@ -3888,6 +3898,16 @@
     "abandon_note": "",
     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0000146",
     "file": "laws/國家運輸安全調查委員會組織法.md"
+  },
+  {
+    "name": "國家醫療科技評估中心設置條例",
+    "category": "行政＞衛生福利部＞組織目",
+    "level": "法律",
+    "modified_date": "20260930",
+    "effective_note": "一百十五年九月三十日制定之全文 35 條，依第 35 條規定：施行日期，\r\n由行政院定之。\r\n",
+    "abandon_note": "",
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0000100",
+    "file": "laws/國家醫療科技評估中心設置條例.md"
   },
   {
     "name": "國家重點領域產學合作及人才培育創新條例",
@@ -8503,8 +8523,8 @@
     "name": "產業創新條例",
     "category": "行政＞經濟部＞產業目",
     "level": "法律",
-    "modified_date": "20250507",
-    "effective_note": "一百十四年五月七日修正之第 22、67-3 條施行日期，由行政院定之。",
+    "modified_date": "20260930",
+    "effective_note": "1.一百十四年五月七日修正之第 22、67-3 條施行日期，由行政院定之。\r\n2.一百十五年九月三十日修正之第 19-1 條施行期間，自一百十六年一月\r\n  一日起至一百十八年十二月三十一日止；第 23-2 條施行期間，自公布\r\n  生效日起至一百十八年十二月三十一日止。",
     "abandon_note": "",
     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0040051",
     "file": "laws/產業創新條例.md"
@@ -11193,11 +11213,21 @@
     "name": "衛生福利部中央健康保險署組織法",
     "category": "行政＞衛生福利部＞組織目",
     "level": "法律",
-    "modified_date": "20130619",
-    "effective_note": "",
+    "modified_date": "20260930",
+    "effective_note": "一百十五年九月三十日修正之第 2  條條文，施行日期，由行政院以命令\r\n定之。",
     "abandon_note": "",
     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0000026",
     "file": "laws/衛生福利部中央健康保險署組織法.md"
+  },
+  {
+    "name": "衛生福利部兒少及家庭支持署組織法",
+    "category": "行政＞衛生福利部＞組織目",
+    "level": "法律",
+    "modified_date": "20260930",
+    "effective_note": "一百十五年九月三十日制定之全文 6  條，依第 6  條規定：施行日期，\r\n由行政院以命令定之。",
+    "abandon_note": "",
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0000102",
+    "file": "laws/衛生福利部兒少及家庭支持署組織法.md"
   },
   {
     "name": "衛生福利部國家中醫藥研究所組織法",
@@ -11240,11 +11270,21 @@
     "file": "laws/衛生福利部社會及家庭署組織法.md"
   },
   {
+    "name": "衛生福利部社會發展及長期照顧署組織法",
+    "category": "行政＞衛生福利部＞組織目",
+    "level": "法律",
+    "modified_date": "20260930",
+    "effective_note": "一百十五年九月三十日制定公布全文 6  條，依第 6  條規定：施行日期\r\n，由行政院以命令定之。",
+    "abandon_note": "",
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0000103",
+    "file": "laws/衛生福利部社會發展及長期照顧署組織法.md"
+  },
+  {
     "name": "衛生福利部組織法",
     "category": "行政＞衛生福利部＞組織目",
     "level": "法律",
-    "modified_date": "20180613",
-    "effective_note": "",
+    "modified_date": "20260930",
+    "effective_note": "一百十五年九月三十日修正之第 2、5、8  條條文，依第 8  條規定：施\r\n行日期，由行政院以命令定之。",
     "abandon_note": "",
     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0000055",
     "file": "laws/衛生福利部組織法.md"
